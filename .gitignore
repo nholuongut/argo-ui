@@ -1,0 +1,10 @@
+node_modules
+dist
+bundle
+.vscode
+.idea
+*.log
+coverage/
+.DS_STORE
+docs/
+v2/storybook-static/
